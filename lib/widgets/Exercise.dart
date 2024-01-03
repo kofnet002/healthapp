@@ -26,7 +26,7 @@ class Exercise extends StatelessWidget {
             borderRadius: BorderRadiusDirectional.circular(25),
             boxShadow: [
               BoxShadow(
-                  color: Colors.white, spreadRadius: 3, offset: Offset(0, 2))
+                  color: Colors.white, spreadRadius: 3, offset: Offset(0, 2),)
             ]),
         padding: EdgeInsets.all(25),
         child: Row(
